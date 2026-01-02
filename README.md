@@ -55,7 +55,7 @@ After building Phonon, run the player from the terminal:
 - Internet Connection is obviously required, I believe this is pretty obvious, but for those people who didn't know here you go.
 - Playback is smooth, but it may take some time initially on longer tracks (until the streaming refactor is done).
 
-## Contribution
+## Contributing
 
 Thanks for considering to contribute to the project! Here's how you can help: 
 
@@ -84,6 +84,6 @@ Thanks for considering to contribute to the project! Here's how you can help:
 
 > Any contribution is welcome, big or small! Improving the README counts 😎.
 
-## Licence
+## License
 
 Phonon is released under [GNU GENERAL PUBLIC LICENSE v3](LICENSE).
