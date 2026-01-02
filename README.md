@@ -1,5 +1,8 @@
 # Phonon
-Clean and Minimal CLI Music Player
+Clean and Minimal CLI Music Player. 
+
+## Brief description: 
+This is a clean and minimal CLI music player written in C++, it utilized `httplib.h`, `nlohmann/json.hpp`, `miniaudio.h` and it requires `OpenSSL`. It uses the Audius API, go to https://audius.org for more information on Audius. Audius provides the music. It is a decentralized music streaming platform.  
 
 ## Table of Contents
 - [Features](#features)
@@ -13,6 +16,7 @@ Clean and Minimal CLI Music Player
 - Track selection from search results. 
 - Handles Stream Redirects.
 - Cross Platform CLI. 
+- Uses the Audius API. 
 
 ## Installation
 Clone the repository and run ./build.sh for Linux Users or ./build.bat for Windows Users.
