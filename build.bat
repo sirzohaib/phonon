@@ -1,2 +1,4 @@
 @echo off
-clang++ src/main.cpp -std=c++17 -Isrc -lssl -lcrypto -lpthread -lws2_32 -lcrypt32 -o player
+REM Build Phonon
+
+clang++ src/main.cpp -std=c++17 -Iinclude -lssl -lcrypto -lpthread -lws2_32 -lcrypt32 -o phonon
