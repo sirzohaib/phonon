@@ -21,13 +21,15 @@ This is a clean and minimal CLI music player written in C++, it utilized `httpli
 ## Installation
 Clone the repository and run ./build.sh for Linux Users or ./build.bat for Windows Users.
 **Ensure the Project structure looks like this:** 
-- include
+```
+include/
 L httplib.h
 L json_fwd.hpp
 L json.hpp
 L miniaudio.h
-- src
+src/
 L main.cpp
+```
 
 ## Usage
 After building Phonon, run the player from the terminal: 
