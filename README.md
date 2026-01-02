@@ -8,7 +8,7 @@ This is a clean and minimal CLI music player written in C++, it utilized `httpli
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Licence](#licence)
+- [License](#license)
 
 ## Features
 - Search and play songs. 
@@ -86,4 +86,4 @@ Thanks for considering to contribute to the project! Here's how you can help:
 
 ## Licence
 
-Phonon is released under [GNU GENERAL PUBLIC LICENSE v3](LICENCE).
+Phonon is released under [GNU GENERAL PUBLIC LICENSE v3](LICENSE).
