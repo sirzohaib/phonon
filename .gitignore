@@ -1,0 +1,15 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+/out/
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# IDE / Editor files
+.vscode/
